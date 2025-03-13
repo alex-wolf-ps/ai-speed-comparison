@@ -22,4 +22,4 @@ Note: This sample app assumes you're familiar with Docker and .NET.
 
 1. Open the .NET project in VS Code or Visual Studio or your editor of choice.
 1. Uncomment the tests you want to run.
-2. Run the project using the run button or the `dotnet run` command from the root of the project directory.
+1. Run the project using the run button or the `dotnet run` command from the root of the project directory.
