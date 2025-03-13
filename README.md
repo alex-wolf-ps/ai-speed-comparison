@@ -20,6 +20,7 @@ Note: This sample app assumes you're familiar with Docker and .NET.
   ollama pull nomic-embed-text
   ```
 
-3. Open the .NET project in VS Code or Visual Studio or your editor of choice.
-4. Uncomment the tests you want to run.
-5. Run the project using the run button or the `dotnet run` command from the root of the project directory.
+3. Clone and open the .NET project in this repo.
+4. Open the project in VS Code or Visual Studio or your editor of choice.
+5. Uncomment the tests you want to run in the `Program.cs` file.
+6. Run the project using the run button or the `dotnet run` command from the root of the project directory.
